@@ -7,7 +7,7 @@ description = "MaaFramework bindings for Rust"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-
+maafw-sys = { path = "maafw-sys", features = ["static"] }
 
 [workspace]
 members = ["maafw-sys"]

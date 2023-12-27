@@ -11,6 +11,10 @@ _✨ 对 [MaaFramework](https://github.com/MaaAssistantArknights/MaaFramework) �
 
 <div align="center">
 
-[English](./README_en.md) | [简体中文](./README.md)
+[English](./Readme_en.md) | [简体中文](./Readme.md)
 
 </div>
+
+# 对应的 MaaFramework 版本
+
+v1.5.0-beta.1
